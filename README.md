@@ -1,1 +1,1 @@
-https://Brahner.github.io/rsschool-cv/
+https://Brahner.github.io/rsschool-cv/cv
