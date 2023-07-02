@@ -9,7 +9,7 @@ ___
 - **Email:** brachneq@gmail.com
 - **Phone:** +7 967 502 7173
 - **Telegram:** [@Brahner](https://t.me/front_end_junior)
-- **Discord** Brahner#7648
+- **Discord:** Brahner#7648
 - **GitHub:** [Brahner](https://github.com/Brahner)
 
 ___
